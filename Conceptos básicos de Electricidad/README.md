@@ -5,7 +5,7 @@
 ### Corriente (I): 
 Es el flujo de electrones a través de un conductor, como un cable. Se mide en amperios (A). Puedes pensar en la corriente como el "caudal" de agua que fluye por una tubería.
 
-<div style = "display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<div style = "display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%;">
   <img src="Imágenes/corriente.png" alt="Corriente Eléctrica" width="400"/>
 </div>
 
