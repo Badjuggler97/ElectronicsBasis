@@ -17,7 +17,9 @@ Es la oposición que un material ofrece al paso de la corriente. Se mide en ohmi
 
 La Ley de Ohm describe la relación entre la corriente, el voltaje y la resistencia en un circuito eléctrico. Se expresa con la fórmula:
 
-$$V=I×R$$
+\[
+V = I \times R
+\]
 
 V (Voltaje) es igual a la I (Corriente) multiplicada por la R (Resistencia).
 Si conoces dos de estos valores, puedes calcular el tercero.
