@@ -5,7 +5,7 @@
 ### Corriente (I): 
 Es el flujo de electrones a través de un conductor, como un cable. Se mide en amperios (A). Puedes pensar en la corriente como el "caudal" de agua que fluye por una tubería.
 
-![Corriente Eléctrica](ElectronicsBasis/Conceptos básicos de Electricidad/Imágenes/corriente.png)
+![Corriente Eléctrica](/Imágenes/corriente.png)
 
 
 ### Voltaje (V): 
