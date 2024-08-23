@@ -7,6 +7,9 @@ Es el flujo de electrones a través de un conductor, como un cable. Se mide en a
 
 ![Corriente Eléctrica](Imágenes/corriente.png)
 
+<div style="text-align: center;">
+  <img src="Imágenes/corriente.png" alt="Corriente Eléctrica" width="400"/>
+</div>
 
 ### Voltaje (V): 
 Es la diferencia de potencial eléctrico entre dos puntos en un circuito. Se mide en voltios (V). El voltaje es la "presión" que impulsa a los electrones a moverse por el circuito, similar a cómo la presión del agua empuja el flujo a través de una tubería.
