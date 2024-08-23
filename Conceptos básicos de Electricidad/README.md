@@ -5,6 +5,8 @@
 ### Corriente (I): 
 Es el flujo de electrones a través de un conductor, como un cable. Se mide en amperios (A). Puedes pensar en la corriente como el "caudal" de agua que fluye por una tubería.
 
+
+
 ### Voltaje (V): 
 Es la diferencia de potencial eléctrico entre dos puntos en un circuito. Se mide en voltios (V). El voltaje es la "presión" que impulsa a los electrones a moverse por el circuito, similar a cómo la presión del agua empuja el flujo a través de una tubería.
 
