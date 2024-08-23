@@ -10,6 +10,8 @@ Es el flujo de electrones a través de un conductor, como un cable. Se mide en a
 ### Voltaje (V): 
 Es la diferencia de potencial eléctrico entre dos puntos en un circuito. Se mide en voltios (V). El voltaje es la "presión" que impulsa a los electrones a moverse por el circuito, similar a cómo la presión del agua empuja el flujo a través de una tubería.
 
+![Fuente de voltaje](Imágenes/voltaje.png)
+
 ### Resistencia (R): 
 Es la oposición que un material ofrece al paso de la corriente. Se mide en ohmios (Ω). La resistencia es como la "estrechez" de la tubería que dificulta el paso del agua.
 
@@ -17,13 +19,13 @@ Es la oposición que un material ofrece al paso de la corriente. Se mide en ohmi
 
 La Ley de Ohm describe la relación entre la corriente, el voltaje y la resistencia en un circuito eléctrico. Se expresa con la fórmula:
 
-\[
-V = I \times R
-\]
+V = I X R
 
 V (Voltaje) es igual a la I (Corriente) multiplicada por la R (Resistencia).
 Si conoces dos de estos valores, puedes calcular el tercero.
 Ejemplo: Si tienes una resistencia de 10 ohmios y aplicas un voltaje de 5 voltios, la corriente que fluye por el circuito será:
+
+I = V/R = 5V/10Ω = 0.5A
 
 Esto significa que 0.5 amperios de corriente fluyen por el circuito.
 
