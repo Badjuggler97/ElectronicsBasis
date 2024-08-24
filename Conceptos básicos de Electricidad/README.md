@@ -15,6 +15,8 @@ Es la diferencia de potencial eléctrico entre dos puntos en un circuito. Se mid
 ### Resistencia (R): 
 Es la oposición que un material ofrece al paso de la corriente. Se mide en ohmios (Ω). La resistencia es como la "estrechez" de la tubería que dificulta el paso del agua.
 
+![Resistencia](Imágenes/resistencia.png)
+
 ### Ley de Ohm
 
 La Ley de Ohm describe la relación entre la corriente, el voltaje y la resistencia en un circuito eléctrico. Se expresa con la fórmula:
@@ -32,6 +34,8 @@ Esto significa que 0.5 amperios de corriente fluyen por el circuito.
 ## 2. Circuitos Básicos
 
 Un circuito eléctrico básico consta de los siguientes componentes:
+
+![Circuito](Imágenes/circuito.png)
 
 ### Fuente de Energía: 
 Suministra el voltaje necesario para mover los electrones. Puede ser una batería, una fuente de alimentación, etc.
