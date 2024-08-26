@@ -21,16 +21,23 @@ Se utilizan en filtros, fuentes de alimentación, y para almacenar energía temp
 
 ### Inductores:
 
-Función: Almacenan energía en un campo magnético cuando la corriente pasa a través de ellos.
-Comportamiento: Los inductores resisten cambios en la corriente. Cuando la corriente en un circuito aumenta, el inductor genera un voltaje que se opone a ese cambio, y cuando la corriente disminuye, libera la energía almacenada.
-Aplicaciones: Son comunes en filtros, transformadores, y en el control de señales de alta frecuencia.
-2. Diodos y Transistores
+#### Función: 
+Almacenan energía en un campo magnético cuando la corriente pasa a través de ellos.
+##### Comportamiento: 
+Los inductores resisten cambios en la corriente. Cuando la corriente en un circuito aumenta, el inductor genera un voltaje que se opone a ese cambio, y cuando la corriente disminuye, libera la energía almacenada.
+#### Aplicaciones: 
+Son comunes en filtros, transformadores, y en el control de señales de alta frecuencia.
 
-Diodos:
+## 2. Diodos y Transistores
 
-Función: Permiten que la corriente fluya en una sola dirección.
-Comportamiento: Un diodo tiene dos terminales, ánodo y cátodo. La corriente fluye desde el ánodo hacia el cátodo, pero no en la dirección opuesta. Esto se debe a la barrera de potencial en la unión del diodo, que se rompe cuando se aplica un voltaje positivo suficiente.
-Aplicaciones: Se utilizan para rectificación (convertir AC en DC), protección contra polaridad inversa, y en circuitos de conmutación.
+### Diodos:
+
+##### Función: 
+Permiten que la corriente fluya en una sola dirección.
+##### Comportamiento: 
+Un diodo tiene dos terminales, ánodo y cátodo. La corriente fluye desde el ánodo hacia el cátodo, pero no en la dirección opuesta. Esto se debe a la barrera de potencial en la unión del diodo, que se rompe cuando se aplica un voltaje positivo suficiente.
+##### Aplicaciones: 
+Se utilizan para rectificación (convertir AC en DC), protección contra polaridad inversa, y en circuitos de conmutación.
 Transistores:
 
 Función: Actúan como interruptores electrónicos o amplificadores.
